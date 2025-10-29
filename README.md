@@ -17,6 +17,10 @@
       font-size: 3em;
     }
   </style>
+  <iframe width="600" height="920"
+  src="https://lookerstudio.google.com/embed/reporting/…/page/…"
+  frameborder="0" style="border:0" allowfullscreen>
+  </iframe>
 </head>
 <body>
   Bienvenido a cartelería
